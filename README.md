@@ -33,6 +33,10 @@ The hex bins were generated using QGIS's "Create Grid Layer" function and export
 
 ## Alternate sources for Census geographic data
 
+### Census Reporter
+
+"[Census Reporter](https://censusreporter.org/) is an independent project to make it easier for journalists to write stories using information from the U.S. Census bureau. Place profiles and comparison pages provide a friendly interface for navigating data, including visualizations for a more useful first look."
+
 ### IPUMS/NHGIS
 
 "[IPUMS USA](https://usa.ipums.org/usa/) collects, preserves and harmonizes U.S. census microdata and provides easy access to this data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present."
