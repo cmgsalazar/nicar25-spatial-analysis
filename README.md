@@ -22,7 +22,7 @@ These are not the exercises we are completing today, but are some examples of re
 #### [Pandemic, homelessness brought record overdose calls in Minneapolis](https://www2.startribune.com/pandemic-homelessness-brought-record-overdose-calls-in-minneapolis/600094050/)  
 *Minnesota Star Tribune, 2021*
 
-![A screenshot of a map with colored hex bins showing the count of suspected drug overdoses.](/images/strib-overdose-map.png)
+[<img style="float: right; width: 300px;" alt="A screenshot of a map with colored hex bins showing the count of suspected drug overdoses." src="/images/strib-overdose-map.png">](https://www2.startribune.com/pandemic-homelessness-brought-record-overdose-calls-in-minneapolis/600094050/)
 
 Sometimes, traditional boundaries like neighborhoods may be too coarse or not comparable enough to each other for the story you are trying to tell.
 
