@@ -31,6 +31,20 @@ This analysis took geocoded EMS calls related to suspected drug overdoses and pl
 The hex bins were generated using QGIS's "Create Grid Layer" function and exported as a shapefile. The rest of the analysis was done with geopandas.
 
 
+### Using Census data with election data
+These maps show where Gascón and Hochman need to win over voters in the race for L.A. County District Attorney
+
+#### [These maps show where Gascón and Hochman need to win over voters in the race for L.A. County District Attorney](https://www.latimes.com/projects/2024-district-attorney-la-county-election-neighborhood-gascon-hochman/#nt=0000018e-8635-db50-adce-eefdde860002-showMedia-liKK1promoSmall-1col-7030col1-main)  
+*The Los Angeles Times, 2024*
+
+
+This analysis took neighborhood level demographic data to understand how people in different neighborhoods voted for the L.A. County District Attorney. 
+
+The analysis was done in geopandas and used the renters vs homeowners as the main focus. 
+
+[<img style="width: 300px;" alt="A screenshot showing two maps of L.A. County District attorney results divided by renters versus homeowners." src="/images/da-maps.png">](https://www.latimes.com/projects/2024-district-attorney-la-county-election-neighborhood-gascon-hochman/#nt=0000018e-8635-db50-adce-eefdde860002-showMedia-liKK1promoSmall-1col-7030col1-main)
+
+
 ## Alternate sources for Census geographic data
 
 ### Census Reporter
