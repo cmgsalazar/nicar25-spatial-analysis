@@ -37,12 +37,21 @@ These maps show where Gascón and Hochman need to win over voters in the race fo
 #### [These maps show where Gascón and Hochman need to win over voters in the race for L.A. County District Attorney](https://www.latimes.com/projects/2024-district-attorney-la-county-election-neighborhood-gascon-hochman/#nt=0000018e-8635-db50-adce-eefdde860002-showMedia-liKK1promoSmall-1col-7030col1-main)  
 *The Los Angeles Times, 2024*
 
+This analysis looked at neighborhood level demographic data to understand how people in different neighborhoods voted for the L.A. County District Attorney. 
 
-This analysis took neighborhood level demographic data to understand how people in different neighborhoods voted for the L.A. County District Attorney. 
-
-The analysis was done in geopandas and used the renters vs homeowners as the main focus. 
+The analysis was done in geopandas and used renters vs homeowners as the main focus. 
 
 [<img style="width: 400px;" alt="A screenshot showing two maps of L.A. County District attorney results divided by renters versus homeowners." src="/images/da-maps.png">](https://www.latimes.com/projects/2024-district-attorney-la-county-election-neighborhood-gascon-hochman/#nt=0000018e-8635-db50-adce-eefdde860002-showMedia-liKK1promoSmall-1col-7030col1-main)
+
+#### [Find out how your neighborhood voted for Los Angeles mayor](https://www.latimes.com/projects/2022-california-election-neighborhood-vote-los-angeles-mayor/#nt=0000016a-0e43-dffa-a76b-3f6bfa3f0002-showMedia-liI5promoMedium-contentFooter)  
+*The Los Angeles Times, 2022*
+
+This piece looked at the demographic patterns of the neighborhoods that voted for Los Angeles Mayor Karen Bass versus Rick Caruso. The demographic data compiled here was done by neighborhood by tenure, race and income. 
+
+[<img style="width: 400px;" alt="A screenshot showing Los Angeles mayoral results by neighborhood and different demographic groups." src="/images/mayoral.png">](https://www.latimes.com/projects/2022-california-election-neighborhood-vote-los-angeles-mayor/#nt=0000016a-0e43-dffa-a76b-3f6bfa3f0002-showMedia-liI5promoMedium-contentFooter)
+
+
+
 ## Alternate sources for Census geographic data
 
 ### Census Reporter
