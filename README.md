@@ -44,6 +44,7 @@ The analysis was done in geopandas and used the renters vs homeowners as the mai
 
 [<img style="width: 300px;" alt="A screenshot showing two maps of L.A. County District attorney results divided by renters versus homeowners." src="/images/da-maps.png">](https://www.latimes.com/projects/2024-district-attorney-la-county-election-neighborhood-gascon-hochman/#nt=0000018e-8635-db50-adce-eefdde860002-showMedia-liKK1promoSmall-1col-7030col1-main)
 
+[<img style="width: 300px;" alt="A screenshot showing the County District attorney results divided by renters versus homeowners." src="/images/renter-vs-owner.png">](https://www.latimes.com/projects/2024-district-attorney-la-county-election-neighborhood-gascon-hochman/#nt=0000018e-8635-db50-adce-eefdde860002-showMedia-liKK1promoSmall-1col-7030col1-main)
 
 ## Alternate sources for Census geographic data
 
